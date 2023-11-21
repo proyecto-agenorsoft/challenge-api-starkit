@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BOgibqlcgtEHAjdjviorJnE4tIrdSi/bEZ6ThC07s8WJ5jeY2WMvXnUzsrY0dcbjvu4fY3GWjLqJeO4VRQxcHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hergro1987\\Desktop\\AGENOR IT\\PROYECTOS\\FILTERSJSON\\FiltersJson\\Filters.DataAccess\\Filters.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hergro1987\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hergro1987\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hergro1987\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hergro1987\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0\\microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hergro1987\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hergro1987\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

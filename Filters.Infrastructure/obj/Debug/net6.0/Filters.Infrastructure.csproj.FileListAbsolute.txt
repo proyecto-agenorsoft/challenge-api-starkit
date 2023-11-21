@@ -1,0 +1,17 @@
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\bin\Debug\net6.0\Filters.Infrastructure.deps.json
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\bin\Debug\net6.0\Filters.Infrastructure.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\bin\Debug\net6.0\Filters.Infrastructure.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\bin\Debug\net6.0\Filters.Contracts.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\bin\Debug\net6.0\Filters.Domain.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\bin\Debug\net6.0\Filters.Contracts.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\bin\Debug\net6.0\Filters.Domain.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\obj\Debug\net6.0\Filters.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\obj\Debug\net6.0\Filters.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\obj\Debug\net6.0\Filters.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\obj\Debug\net6.0\Filters.Infrastructure.AssemblyInfo.cs
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\obj\Debug\net6.0\Filters.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\obj\Debug\net6.0\Filters.Infrastructure.csproj.CopyComplete
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\obj\Debug\net6.0\Filters.Infrastructure.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\obj\Debug\net6.0\refint\Filters.Infrastructure.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\obj\Debug\net6.0\Filters.Infrastructure.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Infrastructure\obj\Debug\net6.0\ref\Filters.Infrastructure.dll

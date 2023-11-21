@@ -1,0 +1,17 @@
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\bin\Debug\net6.0\Filters.Business.deps.json
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\bin\Debug\net6.0\Filters.Business.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\bin\Debug\net6.0\Filters.Business.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\bin\Debug\net6.0\Filters.DataAccess.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\bin\Debug\net6.0\Filters.Domain.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\bin\Debug\net6.0\Filters.DataAccess.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\bin\Debug\net6.0\Filters.Domain.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\obj\Debug\net6.0\Filters.Business.csproj.AssemblyReference.cache
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\obj\Debug\net6.0\Filters.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\obj\Debug\net6.0\Filters.Business.AssemblyInfoInputs.cache
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\obj\Debug\net6.0\Filters.Business.AssemblyInfo.cs
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\obj\Debug\net6.0\Filters.Business.csproj.CoreCompileInputs.cache
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\obj\Debug\net6.0\Filters.Business.csproj.CopyComplete
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\obj\Debug\net6.0\Filters.Business.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\obj\Debug\net6.0\refint\Filters.Business.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\obj\Debug\net6.0\Filters.Business.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Business\obj\Debug\net6.0\ref\Filters.Business.dll

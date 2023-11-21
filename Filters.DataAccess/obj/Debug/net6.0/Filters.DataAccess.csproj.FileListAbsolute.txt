@@ -1,0 +1,15 @@
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\bin\Debug\net6.0\Filters.DataAccess.deps.json
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\bin\Debug\net6.0\Filters.DataAccess.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\bin\Debug\net6.0\Filters.DataAccess.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\bin\Debug\net6.0\Filters.Domain.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\bin\Debug\net6.0\Filters.Domain.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\obj\Debug\net6.0\Filters.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\obj\Debug\net6.0\Filters.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\obj\Debug\net6.0\Filters.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\obj\Debug\net6.0\Filters.DataAccess.AssemblyInfo.cs
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\obj\Debug\net6.0\Filters.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\obj\Debug\net6.0\Filters.DataAccess.csproj.CopyComplete
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\obj\Debug\net6.0\Filters.DataAccess.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\obj\Debug\net6.0\refint\Filters.DataAccess.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\obj\Debug\net6.0\Filters.DataAccess.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.DataAccess\obj\Debug\net6.0\ref\Filters.DataAccess.dll

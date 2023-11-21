@@ -1,0 +1,15 @@
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\bin\Debug\net6.0\Filters.Contracts.deps.json
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\bin\Debug\net6.0\Filters.Contracts.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\bin\Debug\net6.0\Filters.Contracts.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\bin\Debug\net6.0\Filters.Domain.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\bin\Debug\net6.0\Filters.Domain.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\obj\Debug\net6.0\Filters.Contracts.csproj.AssemblyReference.cache
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\obj\Debug\net6.0\Filters.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\obj\Debug\net6.0\Filters.Contracts.AssemblyInfoInputs.cache
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\obj\Debug\net6.0\Filters.Contracts.AssemblyInfo.cs
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\obj\Debug\net6.0\Filters.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\obj\Debug\net6.0\Filters.Contracts.csproj.CopyComplete
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\obj\Debug\net6.0\Filters.Contracts.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\obj\Debug\net6.0\refint\Filters.Contracts.dll
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\obj\Debug\net6.0\Filters.Contracts.pdb
+C:\Users\Hergro1987\Desktop\AGENOR IT\PROYECTOS\FILTERSJSON\FiltersJson\Filters.Contracts\obj\Debug\net6.0\ref\Filters.Contracts.dll
